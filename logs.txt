@@ -1,0 +1,9 @@
+HTTP/1.0 200 OK
+Server: SimpleHTTP/0.6 Python/2.7.15rc1
+Date: Wed, 03 Apr 2019 16:50:52 GMT
+Content-type: text/plain
+Content-Length: 21
+Last-Modified: Wed, 03 Apr 2019 15:26:45 GMT
+Cache-control: must-revalidate
+
+hi my name is batman
